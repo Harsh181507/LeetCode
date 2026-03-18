@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Harsh181507/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Harsh181507/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh181507/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Harsh181507/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh181507/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harsh181507/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
