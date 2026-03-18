@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Harsh181507/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh181507/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -123,8 +124,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Harsh181507/LeetCode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Harsh181507/LeetCode/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Harsh181507/LeetCode/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
