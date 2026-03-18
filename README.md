@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh181507/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh181507/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsh181507/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh181507/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harsh181507/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Harsh181507/LeetCode/tree/master/0739-daily-temperatures) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Harsh181507/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsh181507/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh181507/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/Harsh181507/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsh181507/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -145,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/Harsh181507/LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsh181507/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
