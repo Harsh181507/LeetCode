@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/Harsh181507/LeetCode/tree/master/0224-basic-calculator) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsh181507/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh181507/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harsh181507/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Harsh181507/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Harsh181507/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Harsh181507/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harsh181507/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Harsh181507/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh181507/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Harsh181507/LeetCode/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Harsh181507/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Harsh181507/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Harsh181507/LeetCode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Harsh181507/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Harsh181507/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
