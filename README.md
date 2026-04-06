@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh181507/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0704-binary-search](https://github.com/Harsh181507/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Harsh181507/LeetCode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Harsh181507/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harsh181507/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh181507/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh181507/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Harsh181507/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Harsh181507/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
