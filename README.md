@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh181507/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh181507/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh181507/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Harsh181507/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Harsh181507/LeetCode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Harsh181507/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh181507/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh181507/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0198-house-robber](https://github.com/Harsh181507/LeetCode/tree/master/0198-house-robber) |
 ## Stack
 |  |
 | ------- |
