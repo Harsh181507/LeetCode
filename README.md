@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harsh181507/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh181507/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Harsh181507/LeetCode/tree/master/0037-sudoku-solver) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh181507/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Harsh181507/LeetCode/tree/master/0224-basic-calculator) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh181507/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh181507/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Harsh181507/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh181507/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Recursion
 |  |
 | ------- |
