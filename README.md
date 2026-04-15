@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh181507/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh181507/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh181507/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Harsh181507/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Harsh181507/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Harsh181507/LeetCode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Harsh181507/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh181507/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh181507/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Harsh181507/LeetCode/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/Harsh181507/LeetCode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh181507/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Harsh181507/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harsh181507/LeetCode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/Harsh181507/LeetCode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh181507/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Harsh181507/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -281,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Harsh181507/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harsh181507/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
