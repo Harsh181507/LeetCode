@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harsh181507/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Harsh181507/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Harsh181507/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh181507/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Harsh181507/LeetCode/tree/master/0224-basic-calculator) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Harsh181507/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Harsh181507/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Harsh181507/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Harsh181507/LeetCode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Harsh181507/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Harsh181507/LeetCode/tree/master/0234-palindrome-linked-list) |
