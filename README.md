@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Harsh181507/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Harsh181507/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Harsh181507/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Harsh181507/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh181507/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Harsh181507/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh181507/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harsh181507/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh181507/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Harsh181507/LeetCode/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh181507/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Harsh181507/LeetCode/tree/master/0198-house-robber) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh181507/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Harsh181507/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harsh181507/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
