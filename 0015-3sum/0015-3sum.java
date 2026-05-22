@@ -1,38 +1,37 @@
 class Solution {
-    List<List<Integer>> res = new ArrayList<>();
     public List<List<Integer>> threeSum(int[] nums) {
+        List<List<Integer>> res = new ArrayList<>();
+        int n = nums.length;
+        int s;
         Arrays.sort(nums);
-        for(int i=0; i<nums.length; i++){
-            if(i == 0 || nums [i-1] != nums[i]){
-                twoSumSorted(i+1,nums.length-1,nums,0-nums[i]);
+        for(int i =0;i<n-2;i++){
+
+            if(i>0 && nums[i] == nums[i-1]){
+                continue;
             }
-            
+            int left = i+1;
+            int right = n-1;
+            int sum = -nums[i];
+            while(left < right){
+                s = nums[left] + nums[right];
+                if(s == sum){
+                    res.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    left++;
+                    right--;
+                    while(left < right && nums[left] == nums[left-1]){
+                        left++;
+                    }
+                    while(left < right && nums[right] == nums[right + 1]){
+                        right--;
+                    }
+                }else if(s < sum){
+                    left++;
+                }else{
+                    right--;
+                }
+            }
         }
         return res;
-    }
-    void twoSumSorted(int i, int j, int nums[], int target){
-        int a1 = nums[i-1];
-        while(i<j){
-            if(nums[i] + nums[j] > target){
-                j--;
-            }else if(nums[i] + nums[j] < target){
-                i++;
-            }else{
-                 List <Integer> list = new ArrayList<>();
-                list.add(a1);
-                list.add(nums[i]);
-                list.add(nums[j]);
-                res.add(list);
-
-                while(i<j && nums[i] == nums[i+1]){
-                    i++;
-                }
-                while(i<j && nums[j] == nums[j-1]){
-                    j--;
-            }
-            i++;
-            j--;
-            }
-        }
-    }
+        
+    }      
 }
