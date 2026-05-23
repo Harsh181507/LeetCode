@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Harsh181507/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Harsh181507/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Harsh181507/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Harsh181507/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh181507/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Harsh181507/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh181507/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh181507/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Harsh181507/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Harsh181507/LeetCode/tree/master/0169-majority-element) |
+| [0904-fruit-into-baskets](https://github.com/Harsh181507/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh181507/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh181507/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh181507/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh181507/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Harsh181507/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Harsh181507/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh181507/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Recursion
 |  |
