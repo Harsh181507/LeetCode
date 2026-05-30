@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh181507/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Harsh181507/LeetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Harsh181507/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Harsh181507/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Harsh181507/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Harsh181507/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh181507/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Harsh181507/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh181507/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harsh181507/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Backtracking
