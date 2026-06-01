@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harsh181507/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Harsh181507/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Harsh181507/LeetCode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Harsh181507/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh181507/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh181507/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Harsh181507/LeetCode/tree/master/0525-contiguous-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Harsh181507/LeetCode/tree/master/0224-basic-calculator) |
+| [0383-ransom-note](https://github.com/Harsh181507/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh181507/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh181507/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh181507/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harsh181507/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Harsh181507/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh181507/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sweep Line
 |  |
