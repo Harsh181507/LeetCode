@@ -1,23 +1,22 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        int r = matrix.length;
-        int c = matrix[0].length;
-        int left = 0;
-        int right = r*c -1;
-        
-        while(left <= right){
-            int mid = left + (right - left) / 2;
+        int n = matrix.length;
+        int m = matrix[0].length;
+        int low =0;
+        int high = n*m - 1;
 
-            int row = mid /c;
-            int col = mid % c;
-            int guess = matrix[row][col];
+        while(low <= high){
+            int guess = low + (high - low)/2;
+            int row = guess/m;
+            int col = guess%m;
 
-            if(guess == target){
+            if(matrix[row][col] == target){
                 return true;
-            }else if(guess < target){
-                left = mid +1;
+            }
+            if(matrix[row][col] < target){
+                low = guess+1;
             }else{
-                right = mid -1;
+                high = guess-1;
             }
         }
         return false;
