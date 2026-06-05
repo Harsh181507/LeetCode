@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh181507/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Harsh181507/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Harsh181507/LeetCode/tree/master/0224-basic-calculator) |
+| [2235-add-two-integers](https://github.com/Harsh181507/LeetCode/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh181507/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
