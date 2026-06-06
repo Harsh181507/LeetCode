@@ -19,9 +19,9 @@ class Solution {
         PriorityQueue<Pair> pq = new PriorityQueue<>(
             (a, b) -> {
                 if(a.first != b.first)
-                    return a.first - b.first;      // Min frequency
+                    return a.first - b.first;
 
-                return b.second.compareTo(a.second); // Max word
+                return b.second.compareTo(a.second);
             }
         );
 
@@ -52,11 +52,13 @@ class Solution {
             }
         }
 
-        LinkedList<String> res = new LinkedList<>();
+        List<String> res = new ArrayList<>();
 
         while(!pq.isEmpty()) {
-            res.addFirst(pq.poll().second);
+            res.add(pq.poll().second);
         }
+
+        Collections.reverse(res);
 
         return res;
     }
