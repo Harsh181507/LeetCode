@@ -6,9 +6,9 @@ class Solution {
         PriorityQueue<Pair<Integer, String>> pq = new PriorityQueue<>(
             (a, b) -> {
                 if (!a.getKey().equals(b.getKey())) {
-                    return a.getKey() - b.getKey(); // Min frequency
+                    return a.getKey() - b.getKey();
                 }
-                return b.getValue().compareTo(a.getValue()); // Max lexicographical
+                return b.getValue().compareTo(a.getValue()); 
             }
         );
 
