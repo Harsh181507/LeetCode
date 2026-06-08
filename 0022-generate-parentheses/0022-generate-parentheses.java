@@ -1,22 +1,29 @@
 class Solution {
+
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<String>();
-        recurse(res, 0, 0, "", n);
+
+        ArrayList<String> res = new ArrayList<>();
+
+        fun(0, 0, n, new StringBuilder(), res);
+
         return res;
     }
-    
-    public void recurse(List<String> res, int left, int right, String s, int n) {
-        if (s.length() == n * 2) {
-            res.add(s);
+    public void fun(int open, int close, int n,StringBuilder temp,ArrayList<String> res) {
+
+        if(open == n && close == n){
+            res.add(temp.toString());
             return;
         }
-        
-        if (left < n) {
-            recurse(res, left + 1, right, s + "(", n);
+
+        if(open < n){
+            temp.append('(');
+            fun(open + 1, close, n, temp, res);
+            temp.deleteCharAt(temp.length() - 1);
         }
-        
-        if (right < left) {
-            recurse(res, left, right + 1, s + ")", n);
+        if(close < open){
+            temp.append(')');
+            fun(open, close + 1, n, temp, res);
+            temp.deleteCharAt(temp.length() - 1);
         }
     }
 }
