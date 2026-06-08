@@ -25,5 +25,6 @@ class Solution {
             fun(open, close + 1, n, temp, res);
             temp.deleteCharAt(temp.length() - 1);
         }
+        return;
     }
 }
