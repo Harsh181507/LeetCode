@@ -13,24 +13,19 @@
  *     }
  * }
  */
-
-
-
-
-
-//recursive way
 class Solution {
-
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        preorderHelper(root, ans);
-        return ans;
+        ArrayList<Integer> res = new ArrayList<>();
+        preorder(root,res);
+        return res;
     }
+    public void preorder(TreeNode node, ArrayList<Integer> res){
+        if(node == null){
+            return;
+        }
+        res.add(node.val); //self;
+        preorder(node.left,res);
+        preorder(node.right,res);
 
-    public void preorderHelper( TreeNode root,List<Integer> ans){
-        if (root == null) return;
-        ans.add(root.val);
-        preorderHelper(root.left, ans);
-        preorderHelper(root.right, ans);
     }
 }
