@@ -1,34 +1,36 @@
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
-        if (root == null) return res;
-
-        Deque<TreeNode> q = new LinkedList<>();
-        q.addFirst(root);
-        boolean reverse = false;
-
-        while (!q.isEmpty()) {
-            List<Integer> current = new ArrayList<>();
-            int level = q.size();
-
-            for (int i = 0; i < level; i++) {
-                if (!reverse) {
-                    TreeNode curr = q.pollFirst();
-                    current.add(curr.val);
-                    if (curr.left != null) q.addLast(curr.left);
-                    if (curr.right != null) q.addLast(curr.right);
-                } else {
-                    TreeNode curr = q.pollLast();
-                    current.add(curr.val);
-                    if (curr.right != null) q.addFirst(curr.right);
-                    if (curr.left != null) q.addFirst(curr.left);
+        if(root == null){
+            return res;
+        }
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+        int leftToRight = 1;
+        while(!q.isEmpty()){
+            int levelsize = q.size();
+            List<Integer> temp = new ArrayList<>(Collections.nCopies(levelsize, 0));
+            int first = 0;
+            int last = levelsize - 1;
+            while(levelsize-- > 0){
+                TreeNode t = q.poll();
+                if(leftToRight == 1){
+                    temp.set(first, t.val);
+                    first++;
+                }else{
+                    temp.set(last, t.val);
+                    last--;
+                }
+                if(t.left != null){
+                    q.add(t.left);
+                }
+                if(t.right != null){
+                    q.add(t.right);
                 }
             }
-
-            res.add(current);
-            reverse = !reverse;
+            res.add(temp);
+            leftToRight = 1 - leftToRight;
         }
-
         return res;
     }
 }
