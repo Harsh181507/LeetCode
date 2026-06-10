@@ -1,16 +1,17 @@
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        isInverted(root);
-        return root;
-    }
-    public void isInverted(TreeNode root){
+
         if(root == null){
-            return;
+            return null;
         }
+
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
-        isInverted(root.left);
-        isInverted(root.right);
+
+        invertTree(root.left);
+        invertTree(root.right);
+
+        return root;
     }
 }
