@@ -1,16 +1,25 @@
 class Solution {
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if (root == null || root == p || root == q) {
-            return root;
+
+    TreeNode ans = null;
+
+    public TreeNode lowestCommonAncestor(TreeNode root,TreeNode p,TreeNode q) {
+        LCA(root, p, q);
+        return ans;
+    }
+    public int LCA(TreeNode node,TreeNode p,TreeNode q) {
+        if(node == null){
+            return 0;
         }
-
-        TreeNode left = lowestCommonAncestor(root.left, p, q);
-        TreeNode right = lowestCommonAncestor(root.right, p, q);
-
-        if (left != null && right != null) {
-            return root;
+        int left = LCA(node.left, p, q);
+        int right = LCA(node.right, p, q);
+        int self = 0;
+        if(node == p || node == q){
+            self = 1;
         }
-
-        return left != null ? left : right;        
+        int total = left + right + self;
+        if(total >= 2 && ans == null){
+            ans = node;
+        }
+        return total;
     }
 }
