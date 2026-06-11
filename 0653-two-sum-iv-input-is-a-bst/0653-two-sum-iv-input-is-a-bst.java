@@ -14,16 +14,61 @@
  * }
  */
 class Solution {
-    HashSet<Integer> freq = new HashSet<>();
+
+    Stack<TreeNode> asc = new Stack<>();
+    Stack<TreeNode> desc = new Stack<>();
+
     public boolean findTarget(TreeNode root, int k) {
         if(root == null){
             return false;
         }
-        if(freq.contains(k - root.val)){
-            return true;
-        }else{
-            freq.add(root.val);
+        TreeNode t = root;
+        while(t != null){
+            asc.push(t);
+            t = t.left;
         }
-        return findTarget(root.left,k) || findTarget(root.right,k);
+        t = root;
+        while(t != null){
+            desc.push(t);
+            t = t.right;
+        }
+        TreeNode i = getSmall();
+        TreeNode j = getBig();
+        while(i != null && j != null && i != j && i.val < j.val){
+            int sum = i.val + j.val;
+            if(sum == k){
+                return true;
+            }
+            if(sum > k){
+                j = getBig();
+            }else{
+                i = getSmall();
+            }
+        }
+        return false;
+    }
+    public TreeNode getSmall(){
+        if(asc.isEmpty()){
+            return null;
+        }
+        TreeNode small = asc.pop();
+        TreeNode rightChild = small.right;
+        while(rightChild != null){
+            asc.push(rightChild);
+            rightChild = rightChild.left;
+        }
+        return small;
+    }
+    public TreeNode getBig(){
+        if(desc.isEmpty()){
+            return null;
+        }
+        TreeNode big = desc.pop();
+        TreeNode leftChild = big.left;
+        while(leftChild != null){
+            desc.push(leftChild);
+            leftChild = leftChild.right;
+        }
+        return big;
     }
 }
