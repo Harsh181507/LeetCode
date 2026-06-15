@@ -59,7 +59,6 @@ class Solution {
         if(i < 0 || i >= n || j < 0 || j >= m){
             return false;
         }
-
         return true;
     }
 }
