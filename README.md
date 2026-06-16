@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harsh181507/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harsh181507/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/Harsh181507/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harsh181507/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harsh181507/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Harsh181507/LeetCode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harsh181507/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Harsh181507/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/Harsh181507/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2235-add-two-integers](https://github.com/Harsh181507/LeetCode/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsh181507/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh181507/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh181507/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Harsh181507/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Harsh181507/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Shortest Path
 |  |
 | ------- |
