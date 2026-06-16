@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Harsh181507/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/Harsh181507/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/Harsh181507/LeetCode/tree/master/2235-add-two-integers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Harsh181507/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh181507/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
