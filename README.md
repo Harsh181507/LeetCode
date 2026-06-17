@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harsh181507/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Harsh181507/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Harsh181507/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/Harsh181507/LeetCode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Harsh181507/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Harsh181507/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Harsh181507/LeetCode/tree/master/0525-contiguous-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Harsh181507/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Harsh181507/LeetCode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Harsh181507/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Harsh181507/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Harsh181507/LeetCode/tree/master/0509-fibonacci-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Harsh181507/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Harsh181507/LeetCode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Harsh181507/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Harsh181507/LeetCode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Harsh181507/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
