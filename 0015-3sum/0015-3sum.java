@@ -5,7 +5,6 @@ class Solution {
         int s;
         Arrays.sort(nums);
         for(int i =0;i<n-2;i++){
-
             if(i>0 && nums[i] == nums[i-1]){
                 continue;
             }
@@ -13,25 +12,27 @@ class Solution {
             int right = n-1;
             int sum = -nums[i];
             while(left < right){
-                s = nums[left] + nums[right];
+                s = nums[left]+nums[right];
                 if(s == sum){
                     res.add(Arrays.asList(nums[i], nums[left], nums[right]));
                     left++;
                     right--;
-                    while(left < right && nums[left] == nums[left-1]){
+
+                    while(left < right && nums[left] == nums[left - 1]){
                         left++;
                     }
                     while(left < right && nums[right] == nums[right + 1]){
                         right--;
                     }
+                    
                 }else if(s < sum){
                     left++;
                 }else{
                     right--;
                 }
             }
+
         }
         return res;
-        
     }      
 }
