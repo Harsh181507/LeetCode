@@ -1,11 +1,11 @@
 class Solution {
     public boolean validPalindrome(String s) {
-        int i =0;
-        int j = s.length() - 1;
+        int i=0;
+        int j= s.length()-1;
 
         while(i<j){
-            if(s.charAt(i)!=s.charAt(j)){
-                return palindromehelper(i+1,j,s) || palindromehelper(i,j-1,s);
+            if(s.charAt(i) != s.charAt(j)){
+                return palindromeHelper(i+1,j,s) || palindromeHelper(i,j-1,s);
             }else{
                 i++;
                 j--;
@@ -13,7 +13,7 @@ class Solution {
         }
         return true;
     }
-    public boolean palindromehelper(int i, int j, String s){
+    public boolean palindromeHelper(int i, int j, String s){
         while(i<j){
             if(s.charAt(i) != s.charAt(j)){
                 return false;
@@ -23,4 +23,5 @@ class Solution {
         }
         return true;
     }
+    
 }
