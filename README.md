@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harsh181507/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1631-path-with-minimum-effort](https://github.com/Harsh181507/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harsh181507/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh181507/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh181507/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harsh181507/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Harsh181507/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh181507/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Harsh181507/LeetCode/tree/master/0986-interval-list-intersections) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh181507/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh181507/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Harsh181507/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Harsh181507/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh181507/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Harsh181507/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Harsh181507/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh181507/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh181507/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
