@@ -15,7 +15,8 @@ class Solution {
         }
         if(left!= null){
             return left;
+        }else{
+            return right;
         }
-        return right;
     }
 }
