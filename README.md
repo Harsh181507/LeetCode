@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harsh181507/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1631-path-with-minimum-effort](https://github.com/Harsh181507/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harsh181507/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Harsh181507/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh181507/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harsh181507/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harsh181507/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Harsh181507/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh181507/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh181507/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Harsh181507/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Recursion
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Harsh181507/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harsh181507/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harsh181507/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Harsh181507/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh181507/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Harsh181507/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Harsh181507/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Divide and Conquer
 |  |
 | ------- |
