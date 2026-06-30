@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Harsh181507/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh181507/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Harsh181507/LeetCode/tree/master/0986-interval-list-intersections) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh181507/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Harsh181507/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Harsh181507/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harsh181507/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Harsh181507/LeetCode/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/Harsh181507/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Harsh181507/LeetCode/tree/master/0767-reorganize-string) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Segment Tree
 |  |
 | ------- |
