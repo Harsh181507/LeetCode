@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Harsh181507/LeetCode/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/Harsh181507/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harsh181507/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1537-get-the-maximum-score](https://github.com/Harsh181507/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [1631-path-with-minimum-effort](https://github.com/Harsh181507/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harsh181507/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Harsh181507/LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Harsh181507/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh181507/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Harsh181507/LeetCode/tree/master/0986-interval-list-intersections) |
+| [1537-get-the-maximum-score](https://github.com/Harsh181507/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh181507/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Harsh181507/LeetCode/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/Harsh181507/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Harsh181507/LeetCode/tree/master/0767-reorganize-string) |
+| [1537-get-the-maximum-score](https://github.com/Harsh181507/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Harsh181507/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Harsh181507/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Harsh181507/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Harsh181507/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1537-get-the-maximum-score](https://github.com/Harsh181507/LeetCode/tree/master/1537-get-the-maximum-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Harsh181507/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
